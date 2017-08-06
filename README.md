@@ -8,5 +8,6 @@ Yuxi Li, [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.0
 
 # Libraries
 
-https://github.com/matthiasplappert/keras-rl
-Library with keras and openai gym, with several DRL algorithms implemented/
+[Tensorforce](https://github.com/reinforceio/tensorforce): A TensorFlow library for applied reinforcement learning
+
+[keras-rl](https://github.com/matthiasplappert/keras-rl): Library with keras and openai gym, with several DRL algorithms implemented/
