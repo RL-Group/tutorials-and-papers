@@ -1,3 +1,8 @@
+# Other collections of resources
+
+[awesome-rl](https://github.com/aikorea/awesome-rl)
+[awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning)
+
 # tutorials-and-papers
 Collection of tutorials, exercises and papers on RL
 
