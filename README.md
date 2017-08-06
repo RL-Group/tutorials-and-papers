@@ -8,8 +8,12 @@ Collection of tutorials, exercises and papers on RL
 
 ## Tutorials
 
-- Nervana's [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 
+- Theory
+ - Nervana's [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
+- Code
+  [Pytorch, DQN and gym](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#sphx-glr-intermediate-reinforcement-q-learning-py)
+  
 ## Reviews
 
 - Yuxi Li, [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
