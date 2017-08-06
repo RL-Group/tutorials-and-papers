@@ -32,9 +32,9 @@ Collection of tutorials, exercises and papers on RL
 - RL
   - Sutton and Barto, draft of 2nd edition [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) [PDF]
 - DL
-  Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
+  - Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
 - ML
-  Bishop [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+  - Bishop [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 
 ## Libraries
 
