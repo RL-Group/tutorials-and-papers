@@ -6,12 +6,15 @@ Collection of tutorials, exercises and papers on RL
 - [awesome-rl](https://github.com/aikorea/awesome-rl)
 - [awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning)
 
-## Tutorials
+## Tutorials (theory
 
 
-- Theory
-  - Nervana's [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
-- Code
+
+- Nervana's [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
+
+## Implementations
+
+- Pytorch
   - [Pytorch, DQN and gym](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#sphx-glr-intermediate-reinforcement-q-learning-py)
   
 ## Reviews
