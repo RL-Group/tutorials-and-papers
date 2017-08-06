@@ -27,6 +27,15 @@ Collection of tutorials, exercises and papers on RL
 - David Silver's (2009) [Reinforcement Learning and Simulation-Based Search in Computer Go](http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/1029/paper_thesis.pdf)
 - John Schulman's (2016) [http://joschu.net/docs/thesis.pdf](Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs)
 
+## Books
+
+- RL
+  - Sutton and Barto, draft of 2nd edition [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf) [PDF]
+- DL
+  Goodfellow, Bengio and Courville [Deep Learning](http://www.deeplearningbook.org/)
+- ML
+  Bishop [Pattern Recognition and Machine Learning](https://smile.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+
 ## Libraries
 
 - [Tensorforce](https://github.com/reinforceio/tensorforce): A TensorFlow library for applied reinforcement learning
