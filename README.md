@@ -35,7 +35,7 @@ Deserves its own section
   - official manual somewhere
   - [JKCooper2/rlai-exercises](https://github.com/JKCooper2/rlai-exercises)
 - Implementations
-  - [ShangtongZhang Sutton's student](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+  - [ShangtongZhang Sutton's student](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
   - [Denny Britz Google Brain Resident](https://github.com/dennybritz/reinforcement-learning)
 
 
