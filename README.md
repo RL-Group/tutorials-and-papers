@@ -25,7 +25,7 @@ Collection of tutorials, exercises and papers on RL
 ## Theses
 
 - David Silver's (2009) [Reinforcement Learning and Simulation-Based Search in Computer Go](http://papersdb.cs.ualberta.ca/~papersdb/uploaded_files/1029/paper_thesis.pdf)
-- John Schulman's (2016) [http://joschu.net/docs/thesis.pdf](Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs)
+- John Schulman's (2016) [Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs](http://joschu.net/docs/thesis.pdf)
 
 ## Sutton & Barto
 Deserves its own section
