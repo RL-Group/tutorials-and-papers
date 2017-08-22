@@ -21,6 +21,7 @@ Collection of tutorials, exercises and papers on RL
 
 - Yuxi Li, [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 66 pages
+- Arulkumaran et al, [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866) 14 pages
 
 ## Theses
 
