@@ -1,12 +1,16 @@
 # tutorials-and-papers
 Collection of tutorials, exercises and papers on RL
 
+## Study tracks
+
+- [Policy Gradient Methods](https://github.com/RL-Group/tutorials-and-papers/blob/master/PolicyGradient.md)
+
 ## Other collections of resources
 
 - [awesome-rl](https://github.com/aikorea/awesome-rl)
 - [awesome-deep-reinforcement-learning](https://github.com/williamd4112/awesome-deep-reinforcement-learning)
 
-## Tutorials (theory
+## Tutorials (theory)
 
 
 
