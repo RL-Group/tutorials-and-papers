@@ -12,14 +12,15 @@ Collection of tutorials, exercises and papers on RL
 
 ## Tutorials (theory)
 
-
-
 - Nervana's [Demystifying Deep Reinforcement Learning](https://www.intelnervana.com/demystifying-deep-reinforcement-learning/)
 
 ## Implementations
 
 - Pytorch
   - [Pytorch, DQN and gym](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#sphx-glr-intermediate-reinforcement-q-learning-py)
+  
+- Tensorflow
+  - [Minimal and clean examples of reinforcement learning algorithms](https://github.com/rlcode/reinforcement-learning)
   
 ## Reviews
 
