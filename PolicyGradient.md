@@ -111,7 +111,7 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 
 ## Frontiers
 
-* Piotr Mirowski, Razvan Pascanu, Fabio Viola, et al. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673)
-* Alexander Sasha Vezhnevets, Simon Osindero, et al. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
-* Nicolas Heess, Greg Wayne, Yuval Tassa, et al. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182)
-* Théophane Weber, Sébastien Racanière, et al. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203)
+* Piotr Mirowski, Razvan Pascanu, Fabio Viola, et al. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673) (2017)
+* Alexander Sasha Vezhnevets, Simon Osindero, et al. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017)
+* Nicolas Heess, Greg Wayne, Yuval Tassa, et al. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182) (2016)
+* Théophane Weber, Sébastien Racanière, et al. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017)
