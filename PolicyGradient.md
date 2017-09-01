@@ -108,3 +108,10 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 * Singh, S. P., Barto, A. G., and Chentanez, N. [Intrinsically motivated reinforcement learning](https://papers.nips.cc/paper/2552-intrinsically-motivated-reinforcement-learning.pdf) In NIPS, 2005.
 * Oudeyer, Pierre-Yves, and Frederic Kaplan. [How can we define intrinsic motivation?](http://www.pyoudeyer.com/epirob08OudeyerKaplan.pdf) 2008.
 * Shakir Mohamed and Danilo J. Rezende, [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/abs/1509.08731), ArXiv 2015
+
+## Frontiers
+
+* Piotr Mirowski, Razvan Pascanu, Fabio Viola, et al. [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673)
+* Alexander Sasha Vezhnevets, Simon Osindero, et al. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
+* Nicolas Heess, Greg Wayne, Yuval Tassa, et al. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182)
+* Théophane Weber, Sébastien Racanière, et al. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203)
