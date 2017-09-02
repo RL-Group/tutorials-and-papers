@@ -3,7 +3,7 @@ Collection of tutorials, exercises and papers on RL
 
 ## Study tracks
 
-- [Policy Gradient Methods](https://github.com/RL-Group/tutorials-and-papers/blob/master/PolicyGradient.md)
+- [Deep Reinforcement Learning](https://github.com/RL-Group/tutorials-and-papers/blob/master/DeepRL.md)
 
 ## Other collections of resources
 
