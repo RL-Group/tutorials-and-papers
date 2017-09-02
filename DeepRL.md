@@ -14,6 +14,7 @@
 * John Schulman's thesis: [Optimizing Expectations: From Deep Reinforcement Learning to Stochastic Computation Graphs](http://joschu.net/docs/thesis.pdf)
 * R. J. Williams. [Simple statistical gradient-following algorithms for connectionist reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf). Machine learning (1992)
 * R. S. Sutton, D. McAllester, S. Singh, and Y. Mansour. [Policy gradient methods for reinforcement learning with function approximation](https://web.eecs.umich.edu/~baveja/Papers/PolicyGradientNIPS99.pdf). NIPS. MIT Press, 2000
+* Jan Peters, Stefan Schaal. [Policy Gradient Methods for Robotics](http://www-clmc.usc.edu/publications/P/peters-IROS2006.pdf) (2006)
 * D. Silver, G. Lever, N. Heess, T. Degris, D. Wierstra, et al. [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) ICML 2014.
 * N. Heess, G. Wayne, D. Silver, T. Lillicrap, Y. Tassa, et al. [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142) arXiv preprint arXiv:1510.09142 (2015).
 * T. Jie and P. Abbeel. [On a connection between importance sampling and the likelihood ratio policy gradient](http://rll.berkeley.edu/~jietang/pubs/nips10_Tang.pdf) Advances in Neural Information Processing Systems.  2010, pp. 1000–1008.
