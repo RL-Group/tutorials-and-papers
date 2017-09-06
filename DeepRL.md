@@ -110,9 +110,10 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 * Oudeyer, Pierre-Yves, and Frederic Kaplan. [How can we define intrinsic motivation?](http://www.pyoudeyer.com/epirob08OudeyerKaplan.pdf) 2008.
 * Shakir Mohamed and Danilo J. Rezende, [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/abs/1509.08731), ArXiv 2015
 
-## Misc
+## Scalability
 
 * Tim Salimans, Jonathan Ho, Xi Chen, Ilya Sutskever [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) (2017)
+* Alfredo V. Clemente, Humberto N. Castejón, Arjun Chandra [Efficient Parallel Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1705.04862) (2017)
 
 ## Frontiers
 
