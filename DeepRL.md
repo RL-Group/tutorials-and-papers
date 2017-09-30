@@ -102,7 +102,8 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 * Zachary Lipton et al., [Efficient Exploration for Dialogue Policy Learning with BBQ Networks & Replay Buffer Spiking](https://arxiv.org/abs/1608.05081) (2016) 
 * Stadie et al., [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](https://arxiv.org/abs/1507.00814) (2015) 
 * Bellemare et al., [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) (2016) 
-* Ostrovski et al., [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310) (2017) 
+* Ostrovski et al., [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310) (2017)
+* Meire Fortunato, Mohammad Gheshlaghi Azar, et al. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295) (2017)
 * Houthooft et al., [Variational information maximizing exploration](https://arxiv.org/abs/1605.09674) (2016).
 * Duan et al., [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (2017) 
 * Wang et al., [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763) (2017) 
