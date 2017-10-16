@@ -41,20 +41,31 @@
 * H. Van Hasselt, A. Guez, and D. Silver.  [Deep reinforcement learning with double Q-learning](https://arxiv.org/abs/1509.06461). CoRR, abs/1509.06461 (2015)
 * Z. Wang, N. de Freitas, and M. Lanctot.  [Dueling network architectures for deep reinforcement learning](https://arxiv.org/abs/1511.06581). arXiv preprint arXiv:1511.06581 (2015)
 * T. Schaul, J. Quan, I. Antonoglou, and D. Silver.  [Prioritized experience replay](https://arxiv.org/abs/1511.05952). arXiv preprint arXiv:1511.05952 (2015)
+* D. Silver, A. Huang, C. J. Maddison, et al. [Mastering the
+game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72) (2016)
 
 ## Lecture 5: Advanced Policy Gradient Methods: Natural Gradient, TRPO, and More
 
-[Video](https://www.youtube.com/watch?v=_t5fpZuuf-4&index=15&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+Schulman: [Video](https://www.youtube.com/watch?v=_t5fpZuuf-4&index=15&list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 | [Slides](http://rll.berkeley.edu/deeprlcoursesp17/docs/lec5.pdf)
+
+Achiam: [Video](https://www.youtube.com/watch?v=ycCtmp4hcUs&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=14)
+| [Slides](http://rll.berkeley.edu/deeprlcourse/f17docs/lecture_13_advanced_pg.pdf)
 
 * S. Kakade.  [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf) NIPS. 2001
 * S. Kakade and J. Langford. [Approximately optimal approximate reinforcement learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf). ICML. 2002.
 * J. Peters and S. Schaal.  [Natural actor-critic](https://homes.cs.washington.edu/~todorov/courses/amath579/reading/NaturalActorCritic.pdf). Neurocomputing
 (2008)
 * J. Schulman, S. Levine, P. Moritz, M. I. Jordan, and P. Abbeel.  [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477). ICML (2015)
+* Joshua Achiam, David Held, Aviv Tamar, Pieter Abbeel [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528) (2017)
+* John Schulman, Filip Wolski, Prafulla Dhariwal, et al. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347) (2017)
 * Y. Duan, X. Chen, R. Houthooft, J. Schulman, and P. Abbeel. [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778). ICML (2016)
 * J. Martens and I. Sutskever.  [Training deep and recurrent networks with Hessian-free optimization](http://www.cs.utoronto.ca/~jmartens/docs/HF_book_chapter.pdf).
 * Neural Networks:  Tricks of the Trade. Springer, 2012 (book)
+* S. Amari and S. C. Douglas [Why Natural Gradient?](http://www.yaroslavvb.com/papers/amari-why.pdf) (1998)
+* Jan Peters, Stefan Schaal [Reinforcement learning of motor skills with policy gradients](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf) (2008)
+* Nicolas Heess, Dhruva TB, Srinivasan Sriram, et al. [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286) (2017)
+* Yuhuai Wu, Elman Mansimov, Shun Liao, et al. [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://arxiv.org/abs/1708.05144) (2017)
 
 ## Lecture 6: Variance Reduction for Policy Gradient Methods
 
@@ -66,6 +77,7 @@
 * (Example) Y. Tassa, T. Erez, and E. Todorov.  [Synthesis and stabilization of complex behaviors through online trajectory optimization](https://homes.cs.washington.edu/~todorov/papers/TassaIROS12.pdf) Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on.  IEEE. 2012, pp. 4906–4913
 * J. Schulman, P. Moritz, S. Levine, M. Jordan, and P. Abbeel. [High-dimensional continuous control using generalized advantage estimation](https://arxiv.org/abs/1506.02438) (2015)
 * H. Kimura and S. Kobayashi. [An Analysis of Actor/Critic Algorithms Using Eligibility Traces: Reinforcement Learning with Imperfect Value Function](http://www.umiacs.umd.edu/~hal/courses/2016F_RL/Kimura98.pdf) ICML. 1998
+* A. Y. Ng and M. Jordan. [PEGASUS: A policy search method for large MDPs and POMDPs](http://www.robotics.stanford.edu/~ang/papers/uai00-pegasus.pdf) (2000)
 
 ## Lecture 7: Policy Gradient Methods: Pathwise Derivative Methods and Wrap-up
 
@@ -74,12 +86,12 @@
 
 * T. P. Lillicrap, J. J. Hunt, A. Pritzel, N. Heess, T. Erez, et al. [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971). arXiv preprint arXiv:1509.02971 (2015)
 * (Example) S. Gu, T. Lillicrap, I. Sutskever, and S. Levine.  [Continuous deep Q-learning with model-based acceleration](https://arxiv.org/abs/1603.00748) (2016)
-* B. O’Donoghue, R. Munos, K. Kavukcuoglu, and V. Mnih.  [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626). (2016)
-* Z. Wang, V. Bapst, N. Heess, V. Mnih, R. Munos, et al. [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224). (2016)
-* A. Harutyunyan, M. G. Bellemare, T. Stepleton, and R. Munos.  [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951). 2016
-* N. Jiang and L. Li. [Doubly robust off-policy value evaluation for reinforcement learning](https://arxiv.org/abs/1511.03722). 2016
-* O. Nachum, M. Norouzi, K. Xu, and D. Schuurmans.  [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892). (2017)
-* T. Haarnoja, H. Tang, P. Abbeel, and S. Levine.  [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165). (2017)
+* B. O’Donoghue, R. Munos, K. Kavukcuoglu, and V. Mnih.  [PGQ: Combining policy gradient and Q-learning](https://arxiv.org/abs/1611.01626) (2016)
+* Z. Wang, V. Bapst, N. Heess, V. Mnih, R. Munos, et al. [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224) (2016)
+* A. Harutyunyan, M. G. Bellemare, T. Stepleton, and R. Munos.  [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951) 2016
+* N. Jiang and L. Li. [Doubly robust off-policy value evaluation for reinforcement learning](https://arxiv.org/abs/1511.03722) 2016
+* O. Nachum, M. Norouzi, K. Xu, and D. Schuurmans.  [Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892) (2017)
+* T. Haarnoja, H. Tang, P. Abbeel, and S. Levine.  [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165) (2017)
 
 ## Lecture 8: Exploration
 
@@ -97,7 +109,8 @@
 * Moldovan, Teodor Mihai, and Pieter Abbeel. [Safe exploration in 
 markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv:1205.4810 (2012).
 * Strehl, [PROBABLY APPROXIMATELY CORRECT (PAC) EXPLORATION IN REINFORCEMENT LEARNING](http://cs.brown.edu/~mlittman/theses/strehl.pdf), 2007
-* Osband, Ian, and Benjamin Van Roy. [Bootstrapped Thompson Sampling and Deep Exploration](https://arxiv.org/abs/1507.00300) (2015) 
+* Osband, Ian, and Benjamin Van Roy. [Bootstrapped Thompson Sampling and Deep Exploration](https://arxiv.org/abs/1507.00300) (2015)
+* I. Osband, C. Blundell, A. Pritzel, and B. Van Roy [Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621) (2016)
 * Yarin Gal, and Zoubin Ghahramani. [Dropout as a Bayesian approximation: Representing model uncertainty in deep learning](https://arxiv.org/abs/1506.02142) (2015).
 * Zachary Lipton et al., [Efficient Exploration for Dialogue Policy Learning with BBQ Networks & Replay Buffer Spiking](https://arxiv.org/abs/1608.05081) (2016) 
 * Stadie et al., [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](https://arxiv.org/abs/1507.00814) (2015) 
@@ -109,7 +122,7 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 * Wang et al., [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763) (2017) 
 * Singh, S. P., Barto, A. G., and Chentanez, N. [Intrinsically motivated reinforcement learning](https://papers.nips.cc/paper/2552-intrinsically-motivated-reinforcement-learning.pdf) In NIPS, 2005.
 * Oudeyer, Pierre-Yves, and Frederic Kaplan. [How can we define intrinsic motivation?](http://www.pyoudeyer.com/epirob08OudeyerKaplan.pdf) 2008.
-* Shakir Mohamed and Danilo J. Rezende, [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/abs/1509.08731), ArXiv 2015
+* Shakir Mohamed and Danilo J. Rezende, [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/abs/1509.08731), ArXiv 2015. (Includes discussion of *common random numbers*)
 
 ## Scalability
 
@@ -122,3 +135,23 @@ markov decision processes](https://arxiv.org/abs/1205.4810) arXiv preprint arXiv
 * Alexander Sasha Vezhnevets, Simon Osindero, et al. [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017)
 * Nicolas Heess, Greg Wayne, Yuval Tassa, et al. [Learning and Transfer of Modulated Locomotor Controllers](https://arxiv.org/abs/1610.05182) (2016)
 * Théophane Weber, Sébastien Racanière, et al. [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017)
+* S. Levine, C. Finn, T. Darrell, and P. Abbeel. [End-to-end training of deep visuomotor policies](https://arxiv.org/abs/1504.00702) (2016)
+* Haoran Tang and Tuomas Haarnoja [Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/) (2017)
+* Matteo Hessel, Joseph Modayil, et al. [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298) (2017)
+* Max Jaderberg, Volodymyr Mnih, et al. [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://arxiv.org/abs/1611.05397) (2016)
+* Aravind Rajeswaran, Vikash Kumar, et al. [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://arxiv.org/abs/1709.10087) (2017)
+
+## Optimization
+
+* Kerby Shedden [Optimization in statistics](http://dept.stat.lsa.umich.edu/~kshedden/Courses/Stat606/Notes/optim.pdf)
+    - It contains a nice section about the *Fisher Information* and its relation to the *Hessian* of the log-likelihood.
+    - It also contains a section about *Conjugate-Gradient Methods*.
+* Andrew Gibiansky [Conjugate Gradient (article)](http://andrew.gibiansky.com/blog/machine-learning/conjugate-gradient/) (2014)
+* Andrew Gibiansky [Hessian Free Optimization (article)](http://andrew.gibiansky.com/blog/machine-learning/hessian-free-optimization/) (2014)
+* Andrew Gibiansky [Fully Connected Neural Network Algorithms (article)](http://andrew.gibiansky.com/blog/machine-learning/fully-connected-neural-networks/) (2014)
+* Andrew Gibiansky [Gauss Newton Matrix (article)](http://andrew.gibiansky.com/blog/machine-learning/gauss-newton-matrix/) (2014)
+
+## Useful knowledge
+
+* Art B. Owen [Monte Carlo theory, methods and examples](http://statweb.stanford.edu/~owen/mc/) (2013)
+    - Useful for learning about **variance reduction**)
